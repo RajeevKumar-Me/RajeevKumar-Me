@@ -22,3 +22,4 @@ End-to-end ML system for freight cost prediction and invoice risk detection.
 - Pretrained models + Streamlit app  
 
 🔗 https://github.com/RajeevKumar-Me/freight-cost-invoice-risk-ml
+👉 https://rajeevkumar-me-freight-intelligence.streamlit.app
